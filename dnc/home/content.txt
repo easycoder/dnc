@@ -1,4 +1,4 @@
-Links: ~select:-:Select a subject!selected disabled hidden|S-GetStoryteller:Getting started with Storyteller|S-Structure:The structure of a Storyteller website|S-Markdown:Using Markdown|S-Images:Handling images~~space:3~Next: ~sid:GetStoryteller:Getting started with Storyteller~
+~img:banner.jpg~
 
 # Does Not Compute
 
@@ -9,5 +9,7 @@ So a few weeks back I had the idea of starting a blog where I could complain and
 From time to time I may be tempted to stray into politics, social issues, linguistics or even religion. My views are my own and I have no wish to offend, though I have no respect for unthinking assumptions dressed up as common sense.
 
 On the next page is my first subject, “Do I need it?”, where I intend to question the true meaning of the word “need”.
+
+September 6, 2015
 
 ~pn::{next id}:{next display}~
