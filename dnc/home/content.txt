@@ -1,4 +1,4 @@
-~img:banner.jpg~
+~img:banner.jpg:center~
 
 # Does Not Compute
 
