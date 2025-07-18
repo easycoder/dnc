@@ -1,4 +1,5 @@
-~img:banner.jpg:center~
+~img:banner.jpg:center 100%~
+~img:demo3.jpg:left 25%~
 
 # Does Not Compute
 
