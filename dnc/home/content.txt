@@ -1,7 +1,4 @@
 ~img:banner.jpg:center 100%~
-~img:demo3.jpg:left 25%~
-
-# Does Not Compute
 
 The world we live in is full of bafflement, frustration and incomprehension. Although technology can’t be blamed for everything it is central to much of what we find difficult on a daily basis, whether it be figuring out how to recover a lost password, set the timer on the oven or just get inside the shrink wrap of a product that didn’t need packaging in the first place.
 
@@ -13,4 +10,4 @@ On the next page is my first subject, “Do I need it?”, where I intend to que
 
 September 6, 2015
 
-~pn::{next id}:{next display}~
+~pn:::do i need it:Do I need it~
