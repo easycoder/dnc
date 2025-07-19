@@ -29,4 +29,4 @@ The alternative is to be honest with yourself, say “I want it because I’m wo
 
 September 23, 2015
 
-~pn:content:Does Not Compute:blackswan:Black Swan~
+~pn:home/content:Does Not Compute:home/blackswan:Black Swan~
